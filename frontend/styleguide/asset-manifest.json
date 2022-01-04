@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/build/main.041964d0.js",
+    "runtime-main.js": "/build/bundle.eaded300.js",
+    "build/2.26dccb80.js": "/build/2.26dccb80.js",
+    "build/2.26dccb80.js.LICENSE.txt": "/build/2.26dccb80.js.LICENSE.txt",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "build/bundle.eaded300.js",
+    "build/2.26dccb80.js",
+    "build/main.041964d0.js"
+  ]
+}
