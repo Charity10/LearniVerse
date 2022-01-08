@@ -15,8 +15,10 @@ const documentation = () =>{
                 focuses not only on school activities, For example a student who needs help in a certain assignment finds another student who is knowledgeable in that area, <br/>a skill,
                 learn to cook a particular dish, need help with your project, if you want to learn something learner's connect got you😚</p>
         <h3 align ='left'>PROBLEM</h3>
-            <p align = 'left'>A lot of people are deficient in lot of area(s),
- Finding someone who can help in some of these areas is really difficult and sometimes when we find someone who is willing to teach their prices are very high
+            <p align = 'left'>In this automated world, searching for a tutor for a subject is a difficult job. What about Social media? I don’t think, It has gotten so crowded that your skills might not be noticed, only celebrities have higher edge.
+Through our web application (Learner’s Connect), students can connect with tutors to gain knowledge or skills in a particular field.
+Based on student’s selection, the tutor will have special classes and this will occur through notifications 
+
  </p>
  <h3 align ='left'>SOLUTION</h3>
  <p align = 'left'>
