@@ -30,12 +30,12 @@ Based on student’s selection, the tutor will have special classes and this wil
 
 Create an account 
 - Sign up and verify your account with your student email
-- Update your page with the required details
+- Update your page with the required details<br/>
 
 
 Update your skill
 - Create a skill card that you know you are an expert in it
-- You can also search for other's 
+- You can also search for other's <br/>
 
 Share your skill card
 - Upload your card on timeline for other users to connect
